@@ -1,0 +1,5 @@
+C:\Users\Edwin Belduma\Documents\Visual Studio 2013\Projects\PracticaADO\Entidades\bin\Debug\Entidades.dll
+C:\Users\Edwin Belduma\Documents\Visual Studio 2013\Projects\PracticaADO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Edwin Belduma\Documents\Visual Studio 2013\Projects\PracticaADO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Belduma\Documents\Visual Studio 2013\Projects\PracticaADO\Entidades\obj\Debug\Entidades.dll
+C:\Users\Edwin Belduma\Documents\Visual Studio 2013\Projects\PracticaADO\Entidades\obj\Debug\Entidades.pdb
