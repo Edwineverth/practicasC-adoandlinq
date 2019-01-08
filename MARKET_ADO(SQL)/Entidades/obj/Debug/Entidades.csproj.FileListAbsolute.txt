@@ -1,0 +1,16 @@
+C:\MARKET_ADO - copia\Entidades\bin\Debug\Entidades.exe.config
+C:\MARKET_ADO - copia\Entidades\bin\Debug\Entidades.exe
+C:\MARKET_ADO - copia\Entidades\bin\Debug\Entidades.pdb
+C:\MARKET_ADO - copia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\MARKET_ADO - copia\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\MARKET_ADO - copia\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\MARKET_ADO - copia\Entidades\obj\Debug\Entidades.exe
+C:\MARKET_ADO - copia\Entidades\obj\Debug\Entidades.pdb
+C:\MARKET_ADO\Entidades\bin\Debug\Entidades.exe.config
+C:\MARKET_ADO\Entidades\bin\Debug\Entidades.exe
+C:\MARKET_ADO\Entidades\bin\Debug\Entidades.pdb
+C:\MARKET_ADO\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\MARKET_ADO\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\MARKET_ADO\Entidades\obj\Debug\Entidades.exe
+C:\MARKET_ADO\Entidades\obj\Debug\Entidades.pdb
+C:\MARKET_ADO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\MARKET_ADO\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\MARKET_ADO\CapaDatos\bin\Debug\CapaDatos.exe
+C:\MARKET_ADO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\MARKET_ADO\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\MARKET_ADO\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\MARKET_ADO\CapaDatos\obj\Debug\CapaDatos.exe
+C:\MARKET_ADO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\MARKET_ADO - copia\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\MARKET_ADO - copia\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\MARKET_ADO - copia\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\MARKET_ADO - copia\CapaDatos\obj\Debug\CapaDatos.exe
+C:\MARKET_ADO - copia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\MARKET_ADO - copia\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\MARKET_ADO - copia\CapaDatos\bin\Debug\CapaDatos.exe
+C:\MARKET_ADO - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\MARKET_ADO - copia\CapaDatos\bin\Debug\Entidades.exe
+C:\MARKET_ADO - copia\CapaDatos\bin\Debug\Entidades.pdb
+C:\MARKET_ADO\CapaDatos\bin\Debug\Entidades.exe
+C:\MARKET_ADO\CapaDatos\bin\Debug\Entidades.pdb
+C:\MARKET_ADO\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache

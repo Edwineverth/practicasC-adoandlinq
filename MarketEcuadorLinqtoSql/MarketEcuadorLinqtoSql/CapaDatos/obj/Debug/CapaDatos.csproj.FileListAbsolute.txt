@@ -1,0 +1,16 @@
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\Entidades.dll
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\bin\Debug\Entidades.pdb
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\CapaDatos\obj\Debug\CapaDatos.pdb

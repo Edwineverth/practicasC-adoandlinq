@@ -1,0 +1,10 @@
+C:\MarketEcuadorAdo\Entidades\bin\Debug\Entidades.dll
+C:\MarketEcuadorAdo\Entidades\bin\Debug\Entidades.pdb
+C:\MarketEcuadorAdo\Entidades\obj\Debug\Entidades.dll
+C:\MarketEcuadorAdo\Entidades\obj\Debug\Entidades.pdb
+C:\MarketEcuadorAdo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\MarketEcuadorAdo(DB)\Entidades\bin\Debug\Entidades.dll
+C:\MarketEcuadorAdo(DB)\Entidades\bin\Debug\Entidades.pdb
+C:\MarketEcuadorAdo(DB)\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\MarketEcuadorAdo(DB)\Entidades\obj\Debug\Entidades.dll
+C:\MarketEcuadorAdo(DB)\Entidades\obj\Debug\Entidades.pdb

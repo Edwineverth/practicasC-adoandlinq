@@ -1,0 +1,9 @@
+C:\MarketEcuadorAdo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\MarketEcuadorAdo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\MarketEcuadorAdo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\MarketEcuadorAdo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\MarketEcuadorAdo(DB)\CapaDatos\bin\Debug\CapaDatos.dll
+C:\MarketEcuadorAdo(DB)\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\MarketEcuadorAdo(DB)\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\MarketEcuadorAdo(DB)\CapaDatos\obj\Debug\CapaDatos.dll
+C:\MarketEcuadorAdo(DB)\CapaDatos\obj\Debug\CapaDatos.pdb

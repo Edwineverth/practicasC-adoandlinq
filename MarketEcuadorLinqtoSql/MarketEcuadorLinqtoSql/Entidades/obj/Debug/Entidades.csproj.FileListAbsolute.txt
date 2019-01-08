@@ -1,0 +1,32 @@
+C:\MarketEcuadorLinqtoSql\Entidades\bin\Debug\Entidades.dll
+C:\MarketEcuadorLinqtoSql\Entidades\bin\Debug\Entidades.pdb
+C:\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.dll
+C:\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\bin\Debug\Entidades.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\bin\Debug\Entidades.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\obj\Debug\Entidades.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\obj\Debug\Entidades.pdb
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\bin\Debug\Entidades.dll
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\obj\Debug\Entidades.dll
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe\Entidades\obj\Debug\Entidades.pdb
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\HERNAN\SkyDrive\Documentos JH\Visual Studio 2013\Projects\MarketEcuadorLinqtoSqlProfe - copia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\MarketEcuadorLinqtoSqlProfe - copia\MarketEcuadorLinqtoSqlProfe - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\Edwin\Desktop\MarketEcuadorLinqtoSqlProfe - copia\MarketEcuadorLinqtoSqlProfe - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Edwin\Desktop\MarketEcuadorLinqtoSqlProfe - copia\MarketEcuadorLinqtoSqlProfe - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\Edwin\Desktop\MarketEcuadorLinqtoSqlProfe - copia\MarketEcuadorLinqtoSqlProfe - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\Entidades\bin\Debug\Entidades.dll
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.dll
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\Entidades\bin\Debug\Entidades.dll
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\Entidades\bin\Debug\Entidades.pdb
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.dll
+D:\Nueva carpeta\H1tm4n-Tw0-G3 ZonaLeRoS\MarketEcuadorLinqtoSql\MarketEcuadorLinqtoSql\Entidades\obj\Debug\Entidades.pdb

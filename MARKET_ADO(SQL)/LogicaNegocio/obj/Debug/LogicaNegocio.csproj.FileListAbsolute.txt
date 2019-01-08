@@ -1,0 +1,24 @@
+C:\MARKET_ADO\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\MARKET_ADO\LogicaNegocio\obj\Debug\LogicaNegocio.Properties.Resources.resources
+C:\MARKET_ADO\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.GenerateResource.Cache
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\LogicaNegocio.exe.config
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\LogicaNegocio.exe
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\CapaDatos.exe
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\CapaDatos.pdb
+C:\MARKET_ADO\LogicaNegocio\obj\Debug\LogicaNegocio.exe
+C:\MARKET_ADO\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\LogicaNegocio.exe.config
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\LogicaNegocio.exe
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\CapaDatos.exe
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\Entidades.exe
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\CapaDatos.pdb
+C:\MARKET_ADO - copia\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\MARKET_ADO - copia\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\MARKET_ADO - copia\LogicaNegocio\obj\Debug\LogicaNegocio.Properties.Resources.resources
+C:\MARKET_ADO - copia\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.GenerateResource.Cache
+C:\MARKET_ADO - copia\LogicaNegocio\obj\Debug\LogicaNegocio.exe
+C:\MARKET_ADO - copia\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\Entidades.exe
+C:\MARKET_ADO\LogicaNegocio\bin\Debug\Entidades.pdb
